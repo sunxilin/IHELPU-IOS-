@@ -4,7 +4,6 @@
  
  功能 | 说明 | 展示
  ------------------- | ------------- | ---------
- 
  首页 | 以流行的Tabbar布局，分为首页、消息、发单、订单和我的五个部分 | ![](https://github.com/sunxilin/IHELPU-IOS-/blob/master/%E9%A6%96%E9%A1%B5.gif)
  接单 | 操作简单 | ![](https://github.com/sunxilin/IHELPU-IOS-/blob/master/%E6%8E%A5%E5%8D%95.gif)
  普通发单 | 加密发单可以设置图片为私密，只有在接单后才能看见，可用于发布代取快递的短信图片 | ![](https://github.com/sunxilin/IHELPU-IOS-/blob/master/%E5%8F%91%E5%8D%95.gif)
